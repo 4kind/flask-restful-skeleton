@@ -1,0 +1,14 @@
+.idea
+.env
+env
+venv
+__pycache__
+*.sqlite
+*.coverage
+.DS_Store
+env.sh
+migrations
+app.db
+Würde app/static/ löschen
+Würde flask/include/ löschen
+Würde tmp/ löschen
